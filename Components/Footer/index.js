@@ -5,7 +5,7 @@ function Footer() {
     return (
         <footer className={style.footer}>
             <a
-                href="https://github.com/jeffersonmatheusdev"
+                href="https://github.com/jeffersonmatheusdev/genpassword"
                 target="_blank"
             >
                 Project Github{' '}
