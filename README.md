@@ -20,6 +20,7 @@ yarn dev
 ```
 
 ## Visualizando o resultado na web
+Para acessar o deploy da aplicação na web basta acessar o endereço: 
 ```
-Para acessar o deploy da aplicação na web basta acessar o endereço: https://genpassword.vercel.app/
+https://genpassword.vercel.app/
 ```
