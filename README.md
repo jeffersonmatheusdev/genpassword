@@ -8,7 +8,7 @@
 
 ## Visual da página
 
-![Foo](https://github.com/jeffersonmatheusdev/genpassword/blob/main/Prints/homepage.png?raw=true)
+![Foo](https://user-images.githubusercontent.com/32532873/141648532-8f353ae6-1164-49ae-9bc5-dbc6d893df1d.png)
 
 ## Visualizando o resultado localmente
 
